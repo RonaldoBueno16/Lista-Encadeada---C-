@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Lista Encadeada\bin\Debug\net5.0\Lista Encadeada.exe
+C:\Users\Administrator\source\repos\Lista Encadeada\bin\Debug\net5.0\Lista Encadeada.deps.json
+C:\Users\Administrator\source\repos\Lista Encadeada\bin\Debug\net5.0\Lista Encadeada.runtimeconfig.json
+C:\Users\Administrator\source\repos\Lista Encadeada\bin\Debug\net5.0\Lista Encadeada.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Lista Encadeada\bin\Debug\net5.0\Lista Encadeada.dll
+C:\Users\Administrator\source\repos\Lista Encadeada\bin\Debug\net5.0\ref\Lista Encadeada.dll
+C:\Users\Administrator\source\repos\Lista Encadeada\bin\Debug\net5.0\Lista Encadeada.pdb
+C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encadeada.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encadeada.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encadeada.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encadeada.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encadeada.dll
+C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\ref\Lista Encadeada.dll
+C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encadeada.pdb
+C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encadeada.genruntimeconfig.cache
