@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xzZl4fGoHivk+dQwaY28ksQ0omnIUQccveFGYWqIG2my7+7+LwNFbHYrTC0Y6yWql0k89tQV4nFw2/KCsvuLbA==",
+  "dgSpecHash": "umpFFyHQWWbX2Sji+YRY+92mMpmbQ62RKRLQGS8r9gVweObrd/GoBWRVwRODiOmq8cMypXKUE/Iep9+osAsGRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Lista Encadeada\\Lista Encadeada.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Git\\Lista-Encadeada---C-\\Lista Encadeada.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronaldo.junior\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

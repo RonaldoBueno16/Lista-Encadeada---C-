@@ -14,3 +14,19 @@ C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encad
 C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\ref\Lista Encadeada.dll
 C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encadeada.pdb
 C:\Users\Administrator\source\repos\Lista Encadeada\obj\Debug\net5.0\Lista Encadeada.genruntimeconfig.cache
+C:\Git\Lista-Encadeada---C-\bin\Debug\net5.0\Lista Encadeada.exe
+C:\Git\Lista-Encadeada---C-\bin\Debug\net5.0\Lista Encadeada.deps.json
+C:\Git\Lista-Encadeada---C-\bin\Debug\net5.0\Lista Encadeada.runtimeconfig.json
+C:\Git\Lista-Encadeada---C-\bin\Debug\net5.0\Lista Encadeada.runtimeconfig.dev.json
+C:\Git\Lista-Encadeada---C-\bin\Debug\net5.0\Lista Encadeada.dll
+C:\Git\Lista-Encadeada---C-\bin\Debug\net5.0\Lista Encadeada.pdb
+C:\Git\Lista-Encadeada---C-\obj\Debug\net5.0\Lista Encadeada.csproj.AssemblyReference.cache
+C:\Git\Lista-Encadeada---C-\obj\Debug\net5.0\Lista Encadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Lista-Encadeada---C-\obj\Debug\net5.0\Lista Encadeada.AssemblyInfoInputs.cache
+C:\Git\Lista-Encadeada---C-\obj\Debug\net5.0\Lista Encadeada.AssemblyInfo.cs
+C:\Git\Lista-Encadeada---C-\obj\Debug\net5.0\Lista Encadeada.csproj.CoreCompileInputs.cache
+C:\Git\Lista-Encadeada---C-\obj\Debug\net5.0\Lista Encadeada.dll
+C:\Git\Lista-Encadeada---C-\obj\Debug\net5.0\refint\Lista Encadeada.dll
+C:\Git\Lista-Encadeada---C-\obj\Debug\net5.0\Lista Encadeada.pdb
+C:\Git\Lista-Encadeada---C-\obj\Debug\net5.0\Lista Encadeada.genruntimeconfig.cache
+C:\Git\Lista-Encadeada---C-\obj\Debug\net5.0\ref\Lista Encadeada.dll

@@ -8,20 +8,37 @@ namespace Lista_Encadeada
     {
         static void Main(string[] args)
         {
-            ListaEncadeadaService lista = new ListaEncadeadaService();
-            for (int x = 0; x < 10; x++)
-            {
-                Node no = new Node(x+600);
-                lista.InsertNode(no);
-            }
+            Fila fila = new Fila();
 
-            Console.WriteLine(lista);
-            lista.SetValueForNode(5, 500);
-            Console.WriteLine(lista);
-            lista.RemoveNodeIndex(0);
-            lista.RemoveNodeIndex(0);
-            lista.RemoveNodeIndex(0);
-            Console.WriteLine(lista);
+            //Adicionando na fila
+            for(int i = 1; i <= 50; i ++) {
+                fila.Append(i);
+            }
+            Console.WriteLine("Fila completa: " + fila);
+
+            //Removendo 25 elementos da fila
+            for(int i = 0; i < 25; i ++) {
+                fila.Remove();
+            }
+            Console.WriteLine("Fila com -25 elementos: " + fila);
+
+            Console.WriteLine("\n\n");
+
+            Pilha pilha = new Pilha();
+
+            //Adicionando na pilha
+            for(int i = 1; i <= 50; i ++) {
+                pilha.Append(i);
+            }
+            Console.WriteLine("Pilha completa: " + pilha);
+
+            //Removendo 25 elementos da pilha
+            for(int i = 0; i < 25; i ++) {
+                pilha.Remove();
+            }
+            Console.WriteLine("Pilha com -25 elementos: " + pilha);
+
+
         }
     }
 }

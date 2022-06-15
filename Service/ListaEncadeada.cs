@@ -19,7 +19,18 @@ namespace Lista_Encadeada.Service
             this.tamanho++;
             this.ultimo = node;
         }
-        public bool RemoveNodeIndex(int index)
+
+        public int Length() {
+            return this.tamanho;
+        }
+        
+        public void Append(int value) {
+            Node node = new Node(value);
+
+            this.InsertNode(node);
+        }
+        
+        public bool Remove(int index)
         {
             var no = this.primeiro;
             var no_anterior = no;
